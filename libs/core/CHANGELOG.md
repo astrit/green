@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.14.1
+
+### Patch Changes
+
+- 2495ea0: Updating package.json to export the new patterns directory
+- 665c853: **Link:** Improve transition and add cursor
+
 ## 2.14.0
 
 ### Minor Changes
